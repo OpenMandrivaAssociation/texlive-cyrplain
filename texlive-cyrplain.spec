@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-cyrplain
 Version:	20131012
-Release:	6
+Release:	7
 Summary:	TeXLive cyrplain package
 Group:		Publishing
 URL:		http://tug.org/texlive
