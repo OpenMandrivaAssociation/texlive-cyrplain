@@ -5,7 +5,7 @@
 # catalog-license undef
 # catalog-version undef
 Name:		texlive-cyrplain
-Version:	20171105
+Version:	20180303
 Release:	1
 Summary:	TeXLive cyrplain package
 Group:		Publishing
