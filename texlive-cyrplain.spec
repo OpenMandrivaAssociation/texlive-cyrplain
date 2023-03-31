@@ -1,6 +1,6 @@
 Name:		texlive-cyrplain
 Version:	45692
-Release:	1
+Release:	2
 Summary:	TeXLive cyrplain package
 Group:		Publishing
 URL:		http://tug.org/texlive
