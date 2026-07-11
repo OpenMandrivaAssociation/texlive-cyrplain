@@ -11,8 +11,6 @@ License:	lppl1.3
 Source0:	https://mirrors.ctan.org/systems/texlive/tlnet/archive/cyrplain.r%{tl_revision}.tar.xz
 BuildArch:	noarch
 BuildSystem:	texlive
-BuildRequires:	texlive-tlpkg
-%texlive_base_requires
 Provides:	texlive(%{tl_name}) = %{tl_revision}
 
 %description
